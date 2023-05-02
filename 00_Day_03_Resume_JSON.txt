@@ -1,0 +1,57 @@
+
+let myResume = {
+				"basics":
+					{
+						"name": "Elansezhian R",
+						"email": "r_sezhian@yahoo.co.in",
+						"phone": "9962276900",
+						"degree": "B.Sc",
+						"location": 
+							{
+								"address": "2/367 (Plot No. 17/2), ABIRAMI REGENCY, 3rd Cross Street, AGS Colony (Near Kannappa Nagar)",
+								"area": "Kottivakkam",
+								"postalCode": "600041",
+								"city": "Chennai",
+								"state": "Tamilnadu",
+								"country": "India",
+							},
+						"profiles":
+							{
+								"website": "www.linkedin.com/in/elansezhian-rajabadar-37182665",
+								"github": "https://github.com/rsezhian",
+							},
+						"work":
+							{
+								"company": "Newgen Knowledge Works PVT LTD",
+								"position": "Senior Technical Leader",
+								"startDate": "12-03-2012",
+								"endDate": "10-12-2022",
+								"summary": "worked as script developer to support production team",
+							},
+						"education":
+							{
+								"institution": "ST. Joseph's College of Arts and Science",
+								"department": "Physics",
+								"studyType": "Fulltime",
+								"batch-start-year": "2000",
+								"batch-end-year": "2003",
+								"class": "II"
+							},
+						"skills": 
+							{
+								"name": "JavaScript, Python, PerlScript, AppleScript",
+								"level": "intermediate",
+								"projects": "journal automated workflow system"
+							},
+						"languages":
+							{
+								"language": "Tamil, English",
+							},
+						"interests":
+							{
+								"name": "Cricket, Basketball, Chess",
+							}
+					}
+				}
+				
+console.log(myResume);
